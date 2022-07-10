@@ -38,10 +38,11 @@ h3 {
 
 .challenge-4 {
   display: flex;
-  justify-content: space-around;
 }
 
 .challenge-4 div {
   border: var(--border);
   padding: var(--padding);
+  flex: 1;
+  text-align: center;
 }
